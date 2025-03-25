@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Barna-B
+- 👋 Hi, I’m Barnabas Terwase
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on Wep Applications
